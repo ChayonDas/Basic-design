@@ -1,2 +1,2 @@
 # Basic-design
-Its a sportify design clone
+Its a sportify design clone.
